@@ -1,0 +1,1 @@
+document.getElementsByClassName('_3h-N8T9V')[0].click();
